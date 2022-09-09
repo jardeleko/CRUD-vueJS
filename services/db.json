@@ -1,0 +1,110 @@
+{
+  "contacts": [
+    {
+      "id": "2h2134ldczxch123",
+      "name": "Paul Mccartney",
+      "company": "Youtube",
+      "email": "emicimaccartney@gmail.com",
+      "title": "Youtuber",
+      "phone": "+55(55) 99332211",
+      "photo": "https://conteudo.imguol.com.br/c/entretenimento/fc/2021/10/26/paul-mccartney-1635286964586_v2_900x506.jpg.webp",
+      "grouPID": "1"
+    },
+    {
+      "id": "2h2134ldczxch123123",
+      "name": "Maria Silva",
+      "company": "Youtube",
+      "email": "mariazinha1212121212____@gmail.com",
+      "title": "Youtuber",
+      "phone": "+55(55) 97331212",
+      "photo": "https://www.superlutas.com.br/wp-content/uploads/superlutas/1515713605Maria_Silva_Viuva_Negra.jpg",
+      "grouPID": "2"
+    },
+    {
+      "id": "2h2134ldczxch12asd3",
+      "name": "Pedro McCartney",
+      "company": "Youtube",
+      "email": "pedroti@gmail.com",
+      "title": "Youtuber",
+      "phone": "+55(55) 99968552",
+      "photo": "https://cinema10.com.br/upload/personalidades/personalidades_14503_pedro.jpg?default=personalidade",
+      "grouPID": "3"
+    },
+    {
+      "id": "2h2134ldczxch123312wsz",
+      "name": "Paola Oliveira",
+      "company": "Youtube",
+      "email": "pauleti@gmail.com",
+      "title": "Youtuber",
+      "phone": "+55(55) 8824832",
+      "photo": "https://i.em.com.br/geIIOvRv1aAZpQz4NIqTQz4Ugus=/820x0/smart/imgsapp.em.com.br/app/noticia_127983242361/2022/09/05/1391340/paolla-oliveira_1_74516.jpg",
+      "grouPID": "6"
+    },
+    {
+      "id": "2h2134ldczxch123kjhk",
+      "name": "Anitta",
+      "company": "Youtube",
+      "email": "anitta@gmail.com",
+      "title": "Youtuber",
+      "phone": "+55(55) 99234823",
+      "photo": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcREFF1GQSE8Qzyn5fR9nYdA81iWbGMrrPBXPdaOt5gYMwl7Dfmc9O8GB9_Ks7fCRdJc",
+      "grouPID": "2"
+    },
+    {
+      "id": "idana1239012309quevaiserjade123123",
+      "name": "Jade Picon",
+      "company": "Youtube",
+      "email": "paula@gmail.com",
+      "title": "Youtuber",
+      "phone": "+55(55) 98567575",
+      "photo": "https://conteudo.imguol.com.br/c/splash/d4/2022/08/13/jade-picon-mostrou-novo-visual-pensado-para-a-personagem-chiara-em-travessia-1660440458015_v2_900x506.jpg.webp",
+      "grouPID": "6"
+    },
+    {
+      "id": "9eVPRNZ",
+      "name": "Jardel Osorio Duarte",
+      "company": "Organizações Tabajara",
+      "email": "jardelduarte594@gmail.com",
+      "title": "Developer",
+      "phone": "+5549988025159",
+      "photo": "https://scontent.fria5-1.fna.fbcdn.net/v/t39.30808-6/284935514_3286858428211508_497699037235396385_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=V4H7fUYNI8MAX-LINpd&_nc_ht=scontent.fria5-1.fna&oh=00_AT8RNYoFs2dQrz7xpMAaI7Ns3ND3eMyxsBTJC1WM0WVF5g&oe=631D12D0",
+      "grouPID": "3"
+    },
+    {
+      "id": "wG4nuVV",
+      "name": "Felipe Neto",
+      "company": "Youtube",
+      "email": "netin@gmail.com",
+      "title": "Youtuber",
+      "phone": "11 988101022",
+      "photo": "https://www.famosando.com.br/wp-content/uploads/2020/08/felipe-neto-horizon-1024x682.jpg",
+      "grouPID": "5"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "College"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
